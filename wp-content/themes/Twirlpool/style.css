@@ -116,18 +116,6 @@ top: 114px;
 height:73px;
 background-color: #1ccad8;}
 
-.nav-link{
-color: #003394;
-font-family: Georgia;
-font-weight: bold;
-font-size: 36px;
-position: relative;
-left: 123px;
-text-decoration:none;
-top:21px;
-margin-right: 57px;
-}
-
 /** content styles **/
 #top-white-bumper{
 height: 76px;

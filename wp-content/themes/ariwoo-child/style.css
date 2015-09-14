@@ -1,0 +1,90 @@
+/*
+ Theme Name:   Ariwoo Theme Child
+ Theme URI:    http://example.com/Ariwoo-child/
+ Description:  Ariwoo Child Theme - Ariwoo
+ Author:       JMG
+ Author URI:   http://example.com
+ Template:     Ariwoo
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  ariwoo-child
+*/
+@import url("../ariwoo/style.css");
+
+body {  font-family: 'Open Sans', sans-serif;
+	
+}
+
+#mainheader1 {
+    background:  #2593B8;
+    border-bottom: solid 7px #e7746f;
+}
+
+#divFooter {
+    background:  #2593B8;
+    border-top:  solid 7px #e7746f;
+}
+
+.headline {
+    color: #2593B8;
+}
+
+.sub-headline {
+    color: #444;
+}
+
+.slide_h3_wrap {
+    background: rgba(255,255,255,0.7);
+    width: 600px;
+    padding-left: 20px;
+        
+}
+
+
+.slide_h1_wrap {
+    background: rgba(255,255,255,0.7);
+    width: 800px;
+     padding-left: 20px;
+         border: 1px solid #dadada;
+}
+
+.description {
+    float: right;
+    
+}
+
+#carouselSection {
+    color: #444;
+}
+
+#myCarousel{
+    padding-top: 62px;
+    
+}
+
+.huge_it_slideshow_image_wrap1_1{
+    border:  14px solid #2593B8;
+}
+
+#image_id_1_1 > div.huge_it_slideshow_description_text_1 > a {
+    display: inline;
+    color:  navy;
+    font-weight: bold;
+}
+
+body .huge_it_slideshow_description_text_1{
+        width: 50% !important;
+        background: rgba(37, 147, 184, 0.7) !important;
+        font-size: 18px;
+        text-align: right;
+   
+        
+}
+
+body .huge_it_slideshow_title_text_1 {
+    font-size: 23px;
+    text-align: center;
+    color: navy;
+    
+    
+}
